@@ -84,7 +84,7 @@ if (app.Environment.IsDevelopment())
     {
         options
         .WithTitle("SCALAR .NET 9 API")
-        .WithTheme(ScalarTheme.Mars)
+        .WithTheme(ScalarTheme.BluePlanet)
         .WithSearchHotKey("s")
         .WithModels(false)
         .WithDownloadButton(false)
